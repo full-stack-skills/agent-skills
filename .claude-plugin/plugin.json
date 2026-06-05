@@ -1,0 +1,21 @@
+{
+  "name": "utility-skills",
+  "version": "1.0.0",
+  "description": "Utility Skills provides the complete toolchain for working with Agent Skills",
+  "author": {
+    "name": "PartMeAI",
+    "email": "partmeai@gmail.com"
+  },
+  "homepage": "https://github.com/full-statck-skills/utility-skills",
+  "repository": "https://github.com/full-statck-skills/utility-skills",
+  "source": "./",
+  "skills": [
+    "./skills/skill-awesome",
+    "./skills/skill-creator",
+    "./skills/skill-installer",
+    "./skills/skill-official-evaluation",
+    "./skills/skill-sop-creator",
+    "./skills/skill-trace-checker",
+    "./skills/skill-trace-evaluation"
+  ]
+}
