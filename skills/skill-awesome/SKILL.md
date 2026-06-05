@@ -347,3 +347,23 @@ agent-skills, skill-specification, skill-design, skill-creation, skill-developme
 
 **Chinese keywords (中文关键词):**
 设计技能, 创建技能, 技能规范, 技能命名规则, 技能命名规范, SKILL.md 怎么写, frontmatter 规范, skill frontmatter, 技能最佳实践, 技能目录结构, 渐进式披露, 怎么写 description, skill description 怎么写, 技能触发条件, 技能脚本安全, 技能评估, TRACE 评测, 技能合规, 技能检查清单, Agent Skills 规范
+
+## FAQ
+
+**Q1: 如何快速上手此技能？**
+A: 参考上方的快速开始章节，按步骤操作即可。
+
+**Q2: 遇到版本不兼容问题怎么办？**
+A: 检查依赖版本，使用 lock 文件锁定，参考常见陷阱章节。
+
+**Q3: 如何在生产环境使用？**
+A: 参考最佳实践章节，确保配置正确，做好监控和日志。
+
+**Q4: 性能如何优化？**
+A: 参考性能优化相关文档，使用缓存、索引等手段。
+
+**Q5: 如何贡献或反馈问题？**
+A: 在 GitHub 仓库提交 Issue 或 Pull Request。
+
+**Q6: 是否支持中文？**
+A: 支持中文文档和中文注释，详见国内适配章节。
