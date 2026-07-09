@@ -1,13 +1,13 @@
 {
-  "name": "utility-skills",
+  "name": "agent-skills",
   "version": "1.0.0",
   "description": "Utility Skills provides the complete toolchain for working with Agent Skills",
   "author": {
     "name": "PartMeAI",
     "email": "partmeai@gmail.com"
   },
-  "homepage": "https://github.com/full-stack-skills/utility-skills",
-  "repository": "https://github.com/full-stack-skills/utility-skills",
+  "homepage": "https://github.com/full-stack-skills/agent-skills",
+  "repository": "https://github.com/full-stack-skills/agent-skills",
   "source": "./",
   "skills": [
     "./skills/codegraph",

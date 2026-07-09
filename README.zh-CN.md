@@ -1,10 +1,10 @@
 <div align="center">
 
-# utility-skills
+# agent-skills
 
 **技能管理工具 — 创建、评测、安装、编排 Agent Skills**
 
-[![GitHub](https://img.shields.io/badge/github-full--stack--skills%2Futility--skills-green.svg)](https://github.com/full-stack-skills/utility-skills)
+[![GitHub](https://img.shields.io/badge/github-full--stack--skills%2Futility--skills-green.svg)](https://github.com/full-stack-skills/agent-skills)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-兼容-purple.svg)](https://agentskills.io)
 
@@ -21,7 +21,7 @@
 ## 📦 安装
 
 ```bash
-npx skills add full-stack-skills/utility-skills
+npx skills add full-stack-skills/agent-skills
 ```
 
 ## 🎯 技能列表 (8)
@@ -47,14 +47,14 @@ npx skills add full-stack-skills/utility-skills
 **方式一：npx skills CLI（推荐）**
 
 ```bash
-npx skills add full-stack-skills/utility-skills
+npx skills add full-stack-skills/agent-skills
 ```
 
 **方式二：手动安装**
 
 ```bash
-git clone https://github.com/full-stack-skills/utility-skills.git
-cp -r utility-skills/skills/* .claude/skills/
+git clone https://github.com/full-stack-skills/agent-skills.git
+cp -r agent-skills/skills/* .claude/skills/
 ```
 
 更多详情请参阅 [Claude Code 技能指南](https://code.claude.com/docs/en/skills) 和 [Agent Skills 规范](https://agentskills.io/)。
