@@ -1,7 +1,7 @@
 ---
 name: skill-awesome
 description: The canonical knowledge base for designing Agent Skills. Contains distilled Agent Skills specifications (naming conventions, frontmatter rules, directory structure, progressive disclosure), official best practices, description optimization techniques, script safety guidelines, and evaluation frameworks (TRACE). Use when designing a new skill, reviewing an existing skill for compliance, needing to know what makes a good skill, wondering about frontmatter rules or naming conventions, or when the user mentions "设计技能", "创建技能", "技能规范", "技能命名规则", "SKILL.md 怎么写", "frontmatter 规范", "技能最佳实践", "技能目录结构", "渐进式披露", "Agent Skills 规范".
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

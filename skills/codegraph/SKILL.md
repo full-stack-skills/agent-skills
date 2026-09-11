@@ -1,5 +1,6 @@
 ---
 name: codegraph
+license: Apache-2.0
 description: CodeGraph 语义代码智能：代码结构查询、符号追踪、变更影响分析、调用链查找。处理"X如何工作""修改X影响什么""谁调用了X"等代码库问题。20+语言，100%本地。
 ---
 

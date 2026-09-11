@@ -1,5 +1,6 @@
 ---
 name: code-generator
+license: Apache-2.0
 description: Provides comprehensive guidance for code generation including template-based generation, code scaffolding, and automated code creation. Use when the user asks about code generation, needs to generate code from templates, create code scaffolds, or automate code creation.
 ---
 

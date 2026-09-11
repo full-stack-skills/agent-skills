@@ -1,5 +1,6 @@
 ---
 name: skill-trace-checker
+license: Apache-2.0
 display_name: Skill TRACE 质量评测流程
 version: 2.0.0
 description: >

@@ -1,5 +1,6 @@
 ---
 name: skill-installer
+license: Apache-2.0
 description: Manages the installation and discovery of AI skills from the PartMe marketplace.
 ---
 

@@ -1,5 +1,6 @@
 ---
 name: skill-sop-creator
+license: Apache-2.0
 description: Guide for creating Standard Operating Procedures and SOPs and composite workflows by combining atomic Agent Skills. Use when users want to design, structure, or implement multi-step workflows that orchestrate multiple skills for complex business goals. Transforms loose tool collections into reliable, repeatable business processes.
 ---
 

@@ -1,5 +1,6 @@
 ---
 name: autoresearch
+license: Apache-2.0
 description: "Autonomous iteration loop: modify, verify, keep/discard against any metric"
 metadata:
   version: "2.2.1"
