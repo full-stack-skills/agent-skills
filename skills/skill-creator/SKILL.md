@@ -3,7 +3,6 @@ name: skill-creator
 description: Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specialized knowledge, workflows, or tool integrations.
 license: Apache-2.0
 ---
-
 # Skill Creator
 
 This skill provides guidance for creating effective skills.
@@ -355,23 +354,3 @@ After testing the skill, users may request improvements. Often this happens righ
 3. Identify how SKILL.md or bundled resources should be updated
 4. Implement changes and test again
 
-## 国内适配
-
-- 支持中文文档和中文注释
-- 示例代码兼容国内开发环境
-- 提供中文 FAQ 和常见问题解答
-
-## 能力边界
-
-### ✅ 适用场景
-- 当你需要使用此技能对应的技术栈时
-- 当项目需要遵循最佳实践时
-- 当需要快速上手或深入理解核心概念时
-
-### ⚠️ 需要注意
-- 复杂业务逻辑需要结合具体场景调整
-- 性能优化需要根据实际数据量评估
-
-### ❌ 不适用场景
-- 不相关的技术栈或框架
-- 需要完全自定义的特殊场景
