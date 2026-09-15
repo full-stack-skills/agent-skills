@@ -3,12 +3,7 @@ name: skill-trace-checker
 license: Apache-2.0
 display_name: Skill TRACE 质量评测流程
 version: 2.0.0
-description: >
-  每次创建或修改 Skill 后，必须使用本 Skill 对其进行 TRACE 五维度自检，
-  全部子项达到 5.0 满分标准后才视为任务完成。
-  TRACE 体系覆盖：可信任度（Trust）、可靠性（Reliability）、适用性（Adaptability）、
-  规范性（Convention）、有效性（Effectiveness）。
-  触发条件：每次完成 Skill 创建或重大修改后，自动执行本检查流程。
+description: 每次创建或修改 Skill 后，必须使用本 Skill 对其进行 TRACE 五维度自检， 全部子项达到 5.0 满分标准后才视为任务完成。 TRACE 体系覆盖：可信任度（Trust）、可靠性（Reliability）、适用性（Adaptability）、 规范性（Convention）、有效性（Effectiveness）。 触发条件：每次完成 Skill 创建或重大修改后，自动执行本检查流程。
 agent_created: true
 category: quality-assurance
 tags:
