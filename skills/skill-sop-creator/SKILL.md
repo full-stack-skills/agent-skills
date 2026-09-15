@@ -3,7 +3,6 @@ name: skill-sop-creator
 license: Apache-2.0
 description: Guide for creating Standard Operating Procedures and SOPs and composite workflows by combining atomic Agent Skills. Use when users want to design, structure, or implement multi-step workflows that orchestrate multiple skills for complex business goals. Transforms loose tool collections into reliable, repeatable business processes.
 ---
-
 # skill-sop-creator
 
 Guide for creating Standard Operating Procedures (SOPs) and composite workflows by combining atomic Agent Skills. Use this skill when users want to design, structure, or implement multi-step workflows (SOPs) that orchestrate multiple skills to achieve complex business goals. This skill transforms loose collections of tools into reliable, repeatable business processes.
@@ -69,23 +68,3 @@ Checks if a proposed SOP structure is valid and if referenced skills exist.
 - An SOP is essentially a "Composite Skill" that acts as a conductor for other "Atomic Skills".
 - This skill helps you *design* that conductor.
 
-## 国内适配
-
-- 支持中文文档和中文注释
-- 示例代码兼容国内开发环境
-- 提供中文 FAQ 和常见问题解答
-
-## 能力边界
-
-### ✅ 适用场景
-- 当你需要使用此技能对应的技术栈时
-- 当项目需要遵循最佳实践时
-- 当需要快速上手或深入理解核心概念时
-
-### ⚠️ 需要注意
-- 复杂业务逻辑需要结合具体场景调整
-- 性能优化需要根据实际数据量评估
-
-### ❌ 不适用场景
-- 不相关的技术栈或框架
-- 需要完全自定义的特殊场景

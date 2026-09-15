@@ -3,7 +3,6 @@ name: agent-browser
 description: A comprehensive skill for using agent-browser, a CLI tool for browser automation designed for AI agents, developed by Vercel Labs. This skill covers installation, core commands, selectors (refs, CSS, XPath, semantic locators), agent mode, sessions, options, and best practices. Use this skill whenever the user needs to automate browser interactions via CLI commands, especially for AI agents that need to interact with web pages.
 license: Apache-2.0
 ---
-
 ## When to use this skill
 
 Use this skill whenever the user wants to:
@@ -84,7 +83,6 @@ This skill is organized to match the agent-browser official documentation struct
    - `templates/basic-automation.md` - Basic automation workflow
    - `templates/ai-agent-workflow.md` - AI agent workflow template
 
-
 ### Doc mapping (one-to-one with official documentation)
 
 - See examples and API files → https://github.com/vercel-labs/agent-browser
@@ -137,40 +135,3 @@ This skill includes detailed examples organized to match the official documentat
 
 agent-browser, CLI browser automation, AI agents, browser automation CLI, refs, snapshot, agent mode, semantic locators, browser automation tool, command-line browser, AI agent browser, deterministic selectors, accessibility tree, browser commands, web automation CLI, sessions, headed mode, authenticated sessions, CDP mode, streaming, Chrome DevTools Protocol, Playwright, browser automation for AI
 
-## 国内适配
-
-- 支持中文文档和中文注释
-- 示例代码兼容国内开发环境
-- 提供中文 FAQ 和常见问题解答
-
-## 能力边界
-
-### ✅ 适用场景
-- 当你需要使用此技能对应的技术栈时
-- 当项目需要遵循最佳实践时
-- 当需要快速上手或深入理解核心概念时
-
-### ⚠️ 需要注意
-- 复杂业务逻辑需要结合具体场景调整
-- 性能优化需要根据实际数据量评估
-
-### ❌ 不适用场景
-- 不相关的技术栈或框架
-- 需要完全自定义的特殊场景
-
-## 使用流程
-
-### Step 1: 环境准备
-确保开发环境已安装必要的依赖和工具。
-
-### Step 2: 配置初始化
-根据项目需求进行基础配置。
-
-### Step 3: 核心功能使用
-按照示例代码实现核心功能。
-
-### Step 4: 测试验证
-运行测试确保功能正常。
-
-### Step 5: 部署上线
-完成开发后进行部署和监控。
