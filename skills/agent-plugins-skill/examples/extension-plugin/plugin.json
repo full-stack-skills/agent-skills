@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "extension-demo",
+  "extensions": {
+    "org.example.editor": {
+      "menuLabel": "Review"
+    }
+  }
+}

@@ -11,6 +11,7 @@
   "source": "./",
   "skills": [
     "./skills/agent-browser",
+    "./skills/agent-plugins-skill",
     "./skills/autoresearch",
     "./skills/browser-trace",
     "./skills/caveman",

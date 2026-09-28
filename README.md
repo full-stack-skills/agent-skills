@@ -24,11 +24,12 @@ English | [简体中文](./README.zh-CN.md)
 npx skills add full-stack-skills/agent-skills
 ```
 
-## 🎯 Skills (15)
+## 🎯 Skills (16)
 
 | Skill | Description |
 |-------|-------------|
 | `agent-browser` | Browser automation CLI for AI agents. Install, commands, selectors, sessions, CDP/streaming. |
+| `agent-plugins-skill` | Build, migrate, review, and implement Agent Plugins 1.0.0 packages and clients, with manifest, Skills, MCP, extension, and conformance guidance. |
 | `autoresearch` | Bounded autonomous iteration against verifiable goals, with debugging, fixing, security, and regression subflows. |
 | `browser-trace` | Sidecar capture of browser CDP events, screenshots, and DOM snapshots for debugging and auditing automation. |
 | `caveman` | Compresses responses while preserving technical substance, with adjustable brevity levels. |

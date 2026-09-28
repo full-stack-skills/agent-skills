@@ -24,11 +24,12 @@
 npx skills add full-stack-skills/agent-skills
 ```
 
-## 🎯 技能列表 (15)
+## 🎯 技能列表 (16)
 
 | 技能 | 描述 |
 |------|------|
 | `agent-browser` | AI 代理的浏览器自动化 CLI。安装、命令、选择器、会话、CDP/流式传输。 |
+| `agent-plugins-skill` | 基于 Agent Plugins 1.0.0 开发、迁移、审查可移植插件与客户端，覆盖清单、技能、MCP、扩展和一致性验证。 |
 | `autoresearch` | 面向可验证目标的有界自主迭代，支持调试、修复、安全审计、回归检查等子流程。 |
 | `browser-trace` | 旁路采集浏览器 CDP 事件、截图和 DOM，用于调试和审计浏览器自动化。 |
 | `caveman` | 在保留技术信息的前提下压缩回答，支持多种简洁程度。 |

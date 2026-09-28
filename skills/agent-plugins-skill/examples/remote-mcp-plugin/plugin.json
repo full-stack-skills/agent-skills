@@ -1,0 +1,5 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "remote-mcp-demo",
+  "description": "结构示例：连接一个远程 MCP 服务"
+}
