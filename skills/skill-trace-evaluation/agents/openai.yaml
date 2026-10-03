@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Trace Evaluation"
+  short_description: "对任意 Agent Skill 做 TRACE 五维度评测（T/R/A/C/E），输出 Markdown/HTML 报告与雷达…"
+  default_prompt: "使用 $skill-trace-evaluation，围绕“对任意 Agent Skill 做 TRACE 五维度评测（T/R/A/C/E），输出 Markdown/HTML 报告与雷达”处理我的当前需求。"

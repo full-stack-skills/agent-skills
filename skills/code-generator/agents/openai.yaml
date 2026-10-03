@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Generator"
+  short_description: "code generation including template-based generation, code…"
+  default_prompt: "Use $code-generator to help with my current task: Provides comprehensive guidance for code generation including template-based generation, code scaffolding, and automated code creation."

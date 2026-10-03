@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Plugins Skill"
+  short_description: "基于 Agent Plugins 1.0.0 规范设计、创建、迁移或审查可移植智能体插件（plugin.json、Agent…"
+  default_prompt: "使用 $agent-plugins-skill，围绕“基于 Agent Plugins 1.0.0 规范设计、创建、迁移或审查可移植智能体插件（plugin.json、Agent”处理我的当前需求。"

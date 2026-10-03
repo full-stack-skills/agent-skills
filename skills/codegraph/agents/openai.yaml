@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codegraph"
+  short_description: "CodeGraph 语义代码智能：代码结构查询、符号追踪、变更影响分析、调用链查找"
+  default_prompt: "使用 $codegraph，围绕“CodeGraph 语义代码智能：代码结构查询、符号追踪、变更影响分析、调用链查找”处理我的当前需求。"

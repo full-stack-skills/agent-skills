@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Sop Creator"
+  short_description: "Guide for creating Standard Operating Procedures and SOPs and…"
+  default_prompt: "Use $skill-sop-creator to help with my current task: Guide for creating Standard Operating Procedures and SOPs and composite workflows by combining atomic Agent Skills."

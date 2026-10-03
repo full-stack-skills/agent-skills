@@ -1,0 +1,4 @@
+interface:
+  display_name: "Browser Trace"
+  short_description: "Capture a full DevTools-protocol trace of any browser…"
+  default_prompt: "Use $browser-trace to help with my current task: Capture a full DevTools-protocol trace of any browser automation — CDP firehose, screenshots, and DOM dumps — then bisect the stream into per-page searchable buckets."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "MCP Builder"
+  short_description: "Guide for creating high-quality MCP (Model Context Protocol)…"
+  default_prompt: "Use $mcp-builder to help with my current task: Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools."

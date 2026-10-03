@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Browser"
+  short_description: "agent-browser browser automation for AI agents"
+  default_prompt: "Use $agent-browser to help with my current task: A comprehensive skill for using agent-browser, a CLI tool for browser automation designed for AI agents, developed by Vercel Labs."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Official Evaluation"
+  short_description: "Evaluate any Agent Skill against the official Agent Skills…"
+  default_prompt: "Use $skill-official-evaluation to help with my current task: Evaluate any Agent Skill against the official Agent Skills specification (agentskills.io) and best practices, and produce an official-style assessment report."

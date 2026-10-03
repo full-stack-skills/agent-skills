@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Installer"
+  short_description: "Manages the installation and discovery of AI skills from the…"
+  default_prompt: "Use $skill-installer to help with my current task: Manages the installation and discovery of AI skills from the PartMe marketplace."
